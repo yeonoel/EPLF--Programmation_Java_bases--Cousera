@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="189"/>
+		<item key="DIALOG_Y_ORIGIN" value="214"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="System.out.print(&quot;Votre carte du terrain n&apos;a pas le bon format :\nvaleur &apos;&quot;);"/>
+		<list key="findhistory">
+			<item value="System.out.print(&quot;Votre carte du terrain n&apos;a pas le bon format :\nvaleur &apos;&quot;);"/>
+			<item value="System.out.println(&quot;Vous avez louÃ© votre vÃ©lo pendant&quot;);"/>
+		</list>
+	</section>
+</section>
